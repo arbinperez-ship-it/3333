@@ -1,0 +1,5 @@
+{
+  "name": "Terreins Motorcycle Parts Inventory",
+  "description": "A web application for managing motorcycle parts and accessories stock inventory for Terreins, featuring AI-powered description generation and reorder suggestions using the Gemini API.",
+  "requestFramePermissions": []
+}
